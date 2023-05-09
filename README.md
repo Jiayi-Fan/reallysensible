@@ -9,4 +9,3 @@ You can click the Preview link to take a look at your changes.
 
 - I major in Biomedical Informatics. 🧬
 
-- My profile picture is Hampy. 🐹
